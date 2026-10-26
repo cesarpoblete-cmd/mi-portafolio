@@ -43,4 +43,4 @@ en tu terminal de forma rápida.
 
 ## Enlaces e Imágenes
 * [Enlace a GitHub](https://github.com)
-* Imagen del proyecto:
+![logo] (https://flaticon.com)
